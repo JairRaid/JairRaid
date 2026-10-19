@@ -1,4 +1,4 @@
-Hi My name is Rija Rakotonirainy
+Hi! My name is Rija Rakotonirainy
 ===========================================================================================================================================
 
 Front-end developer
